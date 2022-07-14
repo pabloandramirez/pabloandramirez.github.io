@@ -8,4 +8,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/Pablo-Responsive-Portfolio/preview.png)
+![preview img](preview.png)
