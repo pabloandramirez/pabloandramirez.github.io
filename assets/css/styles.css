@@ -745,12 +745,11 @@ img {
 
 /*==================== PORTFOLIO ====================*/
 .portfolio__container{
-  display: flex;
-  align-items: center;
+  overflow: initial;
 }
 
 .portfolio__content{
-  padding: 1rem 1.5rem;
+  padding: 0 1.5rem;
 }
 
 .portfolio__img{
